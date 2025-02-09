@@ -6,65 +6,66 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Twitter]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+# [Twitter]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Backdrops]
 build-mode = "both"
 arch = "both"
+apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
-[Recorder]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/google-recorder/"
+# [Recorder]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/google-recorder/"
 
-[IconPackStudio]
-build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+# [IconPackStudio]
+# build-mode = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
-[Inshorts]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
+# [Inshorts]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
 
-[Lightroom]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
+# [Lightroom]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
 
-[MemeGenerator]
-build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/zombodroid/meme-generator-free/"
+# [MemeGenerator]
+# build-mode = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/zombodroid/meme-generator-free/"
 
-[MyFitnessPal]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+# [MyFitnessPal]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 
-[Photomath]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photomath/"
+# [Photomath]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photomath/"
 
-[pixiv]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
+# [pixiv]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
 
-[TickTick]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+# [TickTick]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
 
-[Trakt]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/trakt/trakt/"
+# [Trakt]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/trakt/trakt/"
 
-[Tumblr]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/tumblr-inc/tumblr/"
+# [Tumblr]
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://apkmirror.com/apk/tumblr-inc/tumblr/"
