@@ -15,6 +15,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Twitter]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Backdrops]
@@ -24,6 +25,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [Recorder]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/google-recorder/"
 
 [IconPackStudio]
@@ -32,10 +34,12 @@ apkmirror-dlurl = "https://apkmirror.com/apk/smart-launcher-team/icon-pack-studi
 
 [Inshorts]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
 
 [Lightroom]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
 
 [MemeGenerator]
@@ -44,24 +48,30 @@ apkmirror-dlurl = "https://apkmirror.com/apk/zombodroid/meme-generator-free/"
 
 [MyFitnessPal]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 
 [Photomath]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photomath/"
 
 [pixiv]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
 
 [TickTick]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
 
 [Trakt]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/trakt/trakt/"
 
 [Tumblr]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/tumblr-inc/tumblr/"
