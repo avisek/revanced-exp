@@ -19,6 +19,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Backdrops]
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [Recorder]
