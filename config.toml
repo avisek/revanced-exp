@@ -6,13 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[GooglePhotos]
-app-name = "Photos"
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-
 [Twitter]
 build-mode = "both"
 arch = "both"
