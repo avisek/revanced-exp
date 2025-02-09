@@ -11,12 +11,12 @@ parallel-jobs = 1
 # arch = "both"
 # apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
-[Backdrops]
-build-mode = "both"
-# arch = "both"
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+# [Backdrops]
+# build-mode = "both"
+# # arch = "both"
+# # apkmirror-dpi = "120-640dpi"
+# # apkmirror-dlurl = "https://apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+# uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 # [Recorder]
 # build-mode = "both"
@@ -32,10 +32,11 @@ uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 # arch = "both"
 # apkmirror-dlurl = "https://apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
 
-# [Lightroom]
-# build-mode = "both"
-# arch = "both"
+[Lightroom]
+build-mode = "both"
+arch = "both"
 # apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 # [MemeGenerator]
 # build-mode = "both"
