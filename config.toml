@@ -34,7 +34,7 @@ parallel-jobs = 1
 
 [Lightroom]
 build-mode = "both"
-arch = "both"
+# arch = "both"
 # apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
